@@ -7,7 +7,7 @@ a project about implementing chatGPT into a small and very portable device.
 - [screen 4 inch without touch](https://he.aliexpress.com/item/33015586094.html?spm=a2g0o.productlist.main.1.afaf4c65vVlMQX&algo_pvid=33405a6e-e6e3-421d-aa75-244b49a2a7df&aem_p4p_detail=202303212255081231614017392350004334881&algo_exp_id=33405a6e-e6e3-421d-aa75-244b49a2a7df-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000026583382486%22%7D&pdp_npi=3%40dis%21ILS%2114.47%2110.84%21%21%21%21%21%402102186a16794645082337644d06e6%2112000026583382486%21sea%21IL%212202747066&curPageLogUid=Ed0O3EKDrDGn&ad_pvid=202303212255081231614017392350004334881_1&ad_pvid=202303212255081231614017392350004334881_1)
 - [Batteries](https://he.aliexpress.com/item/32851953890.html)
 - [Batteries container](https://www.aliexpress.com/item/4001113579534.html?aff_fcid=a5918c9cf04e4c079052da7888129d8c-1679514911995-00797-_DDyccAP&tt=CPS_NORMAL&aff_fsk=_DDyccAP&aff_platform=shareComponent-detail&sk=_DDyccAP&aff_trace_key=a5918c9cf04e4c079052da7888129d8c-1679514911995-00797-_DDyccAP&terminal_id=75f2910b185f4ef5a7320b8a77dcc635&afSmartRedirect=y&gatewayAdapt=glo2isr)
-- [Batteries charger](https://he.aliexpress.com/item/1005003131153931.html) (isn't required, just a bit more comfortably)
+- [Batteries charger](https://he.aliexpress.com/item/1005003131153931.html) (isn't required, if you want to charge it out side of the case you'd wanna use this)
 
 ## arduino ide setup
 1. first add the esp to the ide by clicking preferences under the file on the top left corner and adding on additional url [this](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)(separated by commas) and installing the esp in the board manager
