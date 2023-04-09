@@ -12,3 +12,4 @@ a project about implementing chatGPT into a small and very portable device.
 ## arduino ide setup
 1. first add the esp to the ide by clicking preferences under the file on the top left corner and adding on additional url [this](https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)(separated by commas) and installing the esp in the board manager
 2. second add all the folders in the libraries folder to your libraries folder inside the arduino project folder(Can be checked on preferences and sketchbook loction) if you dont have one create one
+3. walk through [this](https://www.youtube.com/watch?v=vuYs4A_kcsg) guid to install the cp2102x driver
